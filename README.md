@@ -46,14 +46,6 @@ O acesso é feito via CPF (somente números) e senha numérica de 6 dígitos.
 - **Vender Criptomoedas:** Consulta a cotação atual, calcula taxas e efetua a venda.
 - **Atualizar Cotação:** Flutua o mercado de criptomoedas (±5%).
 
-### 🛡️ Painel do Administrador *(Para projetos em Dupla)*
-O acesso é feito via CPF e senha cadastrada.
-- **Cadastrar Novo Investidor:** Registro via Nome, CPF (sem formatação) e Senha.
-- **Excluir Investidor:** Busca por CPF, exibe os dados e pede confirmação antes da exclusão definitiva.
-- **Consultar Saldo de Terceiros:** Visualiza a carteira de qualquer investidor cadastrado a partir do CPF.
-- **Consultar Extrato de Terceiros:** Visualiza o histórico de transações de qualquer investidor.
-- **Atualizar Cotações:** Administrador também possui a permissão de flutuar o mercado.
-
 ---
 
 ## 🚀 Como Executar o Projeto
